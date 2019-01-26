@@ -1,0 +1,19 @@
+# General
+.DS_Store
+
+# Project specific exclusions
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# mkdocs documentation
+/site
